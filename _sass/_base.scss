@@ -139,6 +139,24 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
+.pub-venue {
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+.pub-authors {
+  font-size: 0.95em;
+}
+
+.pub-title {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.pub-links {
+  font-size: 0.85em;
+}
+
 p > code,
 a > code,
 li > code,

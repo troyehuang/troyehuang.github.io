@@ -34,12 +34,22 @@ Having grown up in the subtropical city of Shenzhen, I’ve traded the heat for 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/react3d_demo_speed.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<div class="pub-title" markdown="1">
 [**REACT3D**: Recovering Articulations for Interactive Physical 3D Scenes](https://arxiv.org/abs/2510.11340)
+</div>
 
+<div class="pub-authors" markdown="1">
 **Zhao Huang**, Boyang Sun, Alexandros Delitzas, Jiaqi Chen, Marc Pollefeys
+</div>
 
-[**Project Page**](https://react3d.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A scalable zero-shot framework that converts static 3D scenes into simulation-ready interactive replicas with consistent geometry, enabling direct use in diverse downstream tasks.
+<i class="pub-venue">IEEE Robotics and Automation Letters (RA-L), 2026</i>
+
+<div class="pub-links" markdown="1">
+[**paper**](https://arxiv.org/abs/2510.11340) / [**project page**](https://react3d.github.io/)
+</div>
+
+<!-- <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 </div>
 </div>
 
