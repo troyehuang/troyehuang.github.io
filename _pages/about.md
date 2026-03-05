@@ -21,7 +21,7 @@ I am a Computer Science Master’s student at [ETH Zurich](https://ethz.ch/en.ht
 
 Prior to moving to Switzerland, I completed my Bachelor’s degree in Computer Science at the [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au) in Australia, under the supervision of [Prof. Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/).
 
-Having grown up in the subtropical city of Shenzhen, I’ve traded the heat for the heights of the Swiss Alps, where I’ve fallen in love with skiing.
+Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat for the snowy heights of the Swiss Alps, where I’ve fallen in love with skiing.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
