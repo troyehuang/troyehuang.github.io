@@ -68,9 +68,9 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Working Experience
-- *2025.07 - 2025.10*, [IBM Research](https://research.ibm.com/), Master Thesis Student. *Zurich, Switzerland*.
+- *2025.07 - 2025.10*, [IBM Research](https://research.ibm.com/labs/zurich), Master Thesis Student. *Zurich, Switzerland*.
 - *2021.09 - 2022.07*, [Tencent Quantum Lab](https://github.com/tencent-quantum-lab). Research Intern, *Shenzhen, China*.
 
 # 🌍 Visitor Map
-<div style="width:500px; margin:auto; padding-top:30px;">
+<div style="width:500px; margin:auto; padding-bottom:20px;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=ap4Rv2BGPBgtLpfKbz4Gy75o7hGKe46IhRlynD5z7B4'></script>

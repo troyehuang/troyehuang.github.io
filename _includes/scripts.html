@@ -2,3 +2,40 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var themeToggleBtn = document.getElementById('theme-toggle');
+    var themeToggleIconMoon = document.getElementById('theme-toggle-icon-moon');
+    var themeToggleIconSun = document.getElementById('theme-toggle-icon-sun');
+    
+    function updateIcon() {
+      if (document.documentElement.getAttribute('data-theme') === 'dark') {
+        themeToggleIconMoon.style.display = 'none';
+        themeToggleIconSun.style.display = 'block';
+      } else {
+        themeToggleIconMoon.style.display = 'block';
+        themeToggleIconSun.style.display = 'none';
+      }
+    }
+    
+    updateIcon(); // Initial call
+    
+    themeToggleBtn.addEventListener('click', function() {
+      if (document.documentElement.getAttribute('data-theme') === 'dark') {
+        DarkReader.disable();
+        document.documentElement.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+      } else {
+        DarkReader.enable({
+          brightness: 100,
+          contrast: 90,
+          sepia: 10
+        });
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+      updateIcon();
+    });
+  });
+</script>
