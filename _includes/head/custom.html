@@ -26,7 +26,7 @@
 <script>
   (function() {
     var savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    if (savedTheme === 'dark') {
       DarkReader.enable({
         brightness: 100,
         contrast: 90,
