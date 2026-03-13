@@ -31,7 +31,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/react3d_demo_speed.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/react3d_demo_speed.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class="pub-title" markdown="1">
