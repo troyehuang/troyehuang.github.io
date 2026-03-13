@@ -25,7 +25,9 @@
 <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.min.js"></script>
 <script>
   (function() {
-    var savedTheme = localStorage.getItem('theme');
+    // Clear legacy localStorage to ensure defaulting to light mode on new visits
+    localStorage.removeItem('theme');
+    var savedTheme = sessionStorage.getItem('theme');
     if (savedTheme === 'dark') {
       DarkReader.enable({
         brightness: 100,
@@ -33,6 +35,8 @@
         sepia: 10
       });
       document.documentElement.setAttribute('data-theme', 'dark');
+    } else {
+      document.documentElement.setAttribute('data-theme', 'light');
     }
   })();
 </script>
