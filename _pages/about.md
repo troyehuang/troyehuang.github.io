@@ -73,7 +73,4 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 
 # 🌍 Visitor Map
 <div style="width:500px; margin:auto; padding-top:30px;">
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=V4gFIV8VguJmJAq-BFM_R3soJt_9k_CtpW78dwFUc8c"></script>
-</div>
-
-<!-- <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=I6n2NkCJUDX-egga5qVC5aEpaaX56qiPnalQe7yWxOc&cl=ffffff&w=a"></script> -->
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=ap4Rv2BGPBgtLpfKbz4Gy75o7hGKe46IhRlynD5z7B4'></script>
