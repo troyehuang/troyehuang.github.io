@@ -45,7 +45,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 <i class="pub-venue">IEEE Robotics and Automation Letters (RA-L), 2026</i>
 
 <div class="pub-links" markdown="1">
-[**paper**](/content_files/papers/_RA_L__REACT3D.pdf) / [**project page**](https://react3d.github.io/)
+[**paper**](https://arxiv.org/pdf/2510.11340) / [**project page**](https://react3d.github.io/)
 </div>
 
 <!-- <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
