@@ -60,16 +60,68 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 - *2021.06* [Dean’s Honours List for 2021 (Highly Commended)](https://www.unsw.edu.au/engineering/student-life/prizes-awards/deans-honours-list-deans-award-recipients-archive), School of Computer Science Engineering, UNSW Sydney.
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, [ETH Zurich](https://ethz.ch/en.html), Master of Science in Computer Science. *Zurich, Switzerland*.
-- *2020.06 - 2023.01*, [University of New South Wales](https://www.unsw.edu.au), Bachelor of Science in Computer Science. *Sydney, Australia*. 
+<style>
+  html[data-theme='dark'] .logo-light { display: none !important; }
+  html:not([data-theme='dark']) .logo-dark { display: none !important; }
+</style>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
+    <a href="https://ethz.ch/en.html">
+      <img src="images/logo/eth_pos.png" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="ETH Zurich Logo">
+      <img src="images/logo/eth_neg.png" class="logo-dark" style="max-height: 80px; max-width: 100%;" alt="ETH Zurich Logo">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.1em;"><a href="https://ethz.ch/en.html" style="color: inherit; text-decoration: none;">ETH Zurich</a></div>
+    <div>Master of Science in Computer Science</div>
+    <div style="color: gray; font-size: 0.9em;"><em>2023.09 - 2026.06 (now) | Zurich, Switzerland</em></div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
+    <a href="https://www.unsw.edu.au">
+      <img src="images/logo/unsw_pos.png" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="UNSW Logo">
+      <img src="images/logo/unsw_neg.png" class="logo-dark" style="max-height: 80px; max-width: 100%;" alt="UNSW Logo">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.1em;"><a href="https://www.unsw.edu.au" style="color: inherit; text-decoration: none;">University of New South Wales</a></div>
+    <div>Bachelor of Science in Computer Science</div>
+    <div style="color: gray; font-size: 0.9em;"><em>2020.06 - 2023.01 | Sydney, Australia</em></div>
+  </div>
+</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Working Experience
-- *2025.07 - 2025.10*, [IBM Research](https://research.ibm.com/labs/zurich), Master Thesis Student. *Zurich, Switzerland*.
-- *2021.09 - 2022.07*, [Tencent Quantum Lab](https://github.com/tencent-quantum-lab). Research Intern, *Shenzhen, China*.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
+    <a href="https://research.ibm.com/labs/zurich">
+      <img src="images/logo/ibm_pos.svg" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="IBM Research Logo">
+      <img src="images/logo/ibm_neg.svg" class="logo-dark" style="max-height: 80px; max-width: 100%;" alt="IBM Research Logo">
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.1em;"><a href="https://research.ibm.com/labs/zurich" style="color: inherit; text-decoration: none;">IBM Research</a></div>
+    <div>Master Thesis Student</div>
+    <div style="color: gray; font-size: 0.9em;"><em>2025.07 - 2025.10 | Zurich, Switzerland</em></div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
+    <a href="https://github.com/tencent-quantum-lab"><img src="images/logo/tencent_blue.avif" style="max-height: 80px; max-width: 100%;" alt="Tencent Quantum Lab Logo"></a>
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.1em;"><a href="https://github.com/tencent-quantum-lab" style="color: inherit; text-decoration: none;">Tencent Quantum Lab</a></div>
+    <div>Research Intern</div>
+    <div style="color: gray; font-size: 0.9em;"><em>2021.09 - 2022.07 | Shenzhen, China</em></div>
+  </div>
+</div>
 
 # 🌍 Visitor Map
 <div style="width:500px; margin:auto; padding-bottom:20px;">
