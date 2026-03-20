@@ -65,7 +65,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
   html:not([data-theme='dark']) .logo-dark { display: none !important; }
 </style>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
   <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
     <a href="https://ethz.ch/en.html">
       <img src="images/logo/eth_pos.png" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="ETH Zurich Logo">
@@ -79,7 +79,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
   <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
     <a href="https://www.unsw.edu.au">
       <img src="images/logo/unsw_pos.png" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="UNSW Logo">
@@ -98,7 +98,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Working Experience
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
   <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
     <a href="https://research.ibm.com/labs/zurich">
       <img src="images/logo/ibm_pos.svg" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="IBM Research Logo">
@@ -112,7 +112,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
   <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
     <a href="https://github.com/tencent-quantum-lab"><img src="images/logo/tencent_blue.avif" style="max-height: 80px; max-width: 100%;" alt="Tencent Quantum Lab Logo"></a>
   </div>
