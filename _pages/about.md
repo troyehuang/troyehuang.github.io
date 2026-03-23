@@ -45,7 +45,7 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 <i class="pub-venue">IEEE Robotics and Automation Letters (RA-L), 2026</i>
 
 <div class="pub-links" markdown="1">
-[**paper**](https://arxiv.org/pdf/2510.11340) / [**project page**](https://react3d.github.io/)
+[**paper**](https://arxiv.org/pdf/2510.11340) / [**project page**](https://react3d.github.io/) / [**code**](https://github.com/troyehuang/REACT3D)
 </div>
 
 <!-- <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -126,3 +126,100 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 # 🌍 Visitor Map
 <div style="width:500px; margin:auto; padding-bottom:20px;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=ap4Rv2BGPBgtLpfKbz4Gy75o7hGKe46IhRlynD5z7B4'></script>
+
+<!-- <div style="width: 100%; max-width: 500px; margin: auto; padding-bottom: 20px; display: flex; justify-content: center;">
+  <canvas id="cobe" style="width: 500px; height: 500px; max-width: 100%; cursor: grab;"></canvas>
+</div>
+
+
+<script type="module">
+  import createGlobe from 'https://cdn.skypack.dev/cobe';
+
+  let canvas = document.getElementById("cobe");
+  let globe = null;
+
+  const arcs = [
+    { id: 'sz-syd', from: [22.5431, 114.0579], to: [-33.8688, 151.2093], label: 'Shenzhen → Sydney' },
+    { id: 'syd-zur', from: [-33.8688, 151.2093], to: [47.3769, 8.5417], label: 'Sydney → Zurich' },
+  ]
+
+  let basePhi = 0;
+  let currentR = 0;
+  let targetR = 0;
+  let pointerInteracting = null;
+
+  function initGlobe() {
+    if (globe) {
+      globe.destroy();
+    }
+
+    const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+    const baseColor = isDark ? [0.1, 0.1, 0.1] : [1, 1, 1];
+    const glowColor = isDark ? [0.2, 0.2, 0.2] : [0.9, 0.9, 0.9];
+    const markerColor = isDark ? [251/255, 140/255, 0/255] : [251/255, 100/255, 21/255];
+    const arcColor = isDark ? [251/255, 140/255, 0/255] : [251/255, 100/255, 21/255];
+
+    globe = createGlobe(canvas, {
+      devicePixelRatio: 2,
+      width: 1000,
+      height: 1000,
+      phi: 0,
+      theta: 0.2,
+      dark: isDark ? 1 : 0,
+      diffuse: 1.2,
+      mapSamples: 16000,
+      mapBrightness: 6,
+      baseColor: baseColor,
+      markerColor: markerColor,
+      glowColor: glowColor,
+      markers: [
+        { location: [47.3769, 8.5417], size: 0.05, id: 'zurich' }, 
+        { location: [-33.8688, 151.2093], size: 0.05, id: 'sydney' }, 
+        { location: [22.5431, 114.0579], size: 0.05, id: 'shenzhen' }  
+      ],
+      arcs: arcs.map(a => ({ from: a.from, to: a.to, id: a.id, color: arcColor })),
+      arcHeight: 0.3,
+      arcWidth: 0.4,
+      onRender: (state) => {
+        if (pointerInteracting === null) {
+          basePhi += 0.005;
+        }
+        currentR += (targetR - currentR) * 0.1; 
+        state.phi = basePhi + currentR;
+      }
+    });
+  }
+
+  initGlobe();
+
+  const themeObserver = new MutationObserver(() => {
+    initGlobe();
+  });
+  themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
+  canvas.addEventListener('pointerdown', (e) => {
+    pointerInteracting = e.clientX; // pointerRef.current = e.clientX
+    canvas.style.cursor = 'grabbing';
+  });
+
+  canvas.addEventListener('pointermove', (e) => {
+    if (pointerInteracting !== null) {
+      const delta = e.clientX - pointerInteracting;
+      targetR = delta / 200; // api.start({ r: delta / 200 })
+    }
+  });
+
+  const handlePointerUp = () => {
+    if (pointerInteracting !== null) {
+      pointerInteracting = null; // pointerRef.current = null
+      canvas.style.cursor = 'grab';
+      
+      basePhi += currentR;
+      targetR = 0;
+      currentR = 0;
+    }
+  };
+
+  canvas.addEventListener('pointerup', handlePointerUp);
+  canvas.addEventListener('pointerout', handlePointerUp);
+</script> -->
