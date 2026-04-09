@@ -123,6 +123,9 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
   </div>
 </div>
 
+# 📋 Academic Service
+- Reviewer, [1st Workshop on Generative Digital Twins for Real2Sim and Sim2Real Transfer in Robotics](https://awesomedigitaltwin.github.io/2026_ICRA.html), ICRA 2026
+
 # 🌍 Visitor Map
 <div style="width:500px; margin:auto; padding-bottom:20px;">
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=ap4Rv2BGPBgtLpfKbz4Gy75o7hGKe46IhRlynD5z7B4'></script>
