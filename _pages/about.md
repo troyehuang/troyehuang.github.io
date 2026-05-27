@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Master’s student at [ETH Zurich](https://ethz.ch/en.html), where my research sits at the intersection of computer vision and robotics. I am currently privileged to be supervised by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) within the [Computer Vision and Geometry Group](https://cvg.ethz.ch/) at ETH Zurich, and by [Prof. Daniel Ahmed](https://www.artorg.unibe.ch/research/arsl/group_members/persons/prof_dr_ahmed_daniel/index_eng.html#pane1752106) at the [Acoustic Robotics Systems Lab](https://www.artorg.unibe.ch/research/arsl/index_eng.html) at the University of Bern.
+I am a Computer Science Master’s student at [ETH Zurich](https://ethz.ch/en.html), supervised by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) within the [Computer Vision and Geometry Group](https://cvg.ethz.ch/) at ETH Zurich, and by [Prof. Daniel Ahmed](https://www.artorg.unibe.ch/research/arsl/group_members/persons/prof_dr_ahmed_daniel/index_eng.html#pane1752106) at the [Acoustic Robotics Systems Lab](https://www.artorg.unibe.ch/research/arsl/index_eng.html) at the University of Bern. My research interests span computer vision and robotics, with a focus on bridging the real-to-sim-to-real gap to create meaningful real-world applications.
 
 Prior to moving to Switzerland, I completed my Bachelor’s degree in Computer Science at the [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au) in Australia, under the supervision of [Prof. Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/).
 
-Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat for the snowy heights of the Swiss Alps, where I’ve fallen in love with skiing.
+I grew up in Shenzhen where it never snows — Switzerland was quite the change. Somewhere along the way, I got hooked on skiing.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper REACT3D got accepted as a <span style="color:red;">**spotlight presentation**</span> at the [ICRA Real2Sim2Real Workshop](https://awesomedigitaltwin.github.io/2026_ICRA.html)! See you in Vienna!
 - *2026.02*: &nbsp;🎉🎉 My first publication has been accepted by IEEE Robotics and Automation Letters (RA-L). My research journey begins here! 
 
 # 📝 Publications 
@@ -43,6 +44,8 @@ Having grown up in Shenzhen, a coastal city with no snow, I’ve traded the heat
 </div>
 
 <i class="pub-venue">IEEE Robotics and Automation Letters (RA-L), 2026</i>
+
+<i class="pub-venue">ICRA Real2Sim2Real Workshop, <span style="color:red;">Spotlight</span>, 2026</i>
 
 <div class="pub-links" markdown="1">
 [**paper**](https://arxiv.org/pdf/2510.11340) / [**project page**](https://react3d.github.io/) / [**code**](https://github.com/troyehuang/REACT3D)
