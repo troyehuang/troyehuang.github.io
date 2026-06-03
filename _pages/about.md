@@ -32,6 +32,28 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 
 # 📝 Publications 
 
+<span style="font-size: 0.75em; color: gray;">\* denotes equal contribution</span>
+
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/comind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="pub-title" markdown="1">
+**CoMind**: Understanding Collaborative Human Activity from Multiple Minds and Views
+</div>
+
+<div class="pub-authors" markdown="1">
+Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaqi Chen, Ben Ellis, Cedric Zöllner, Manthan Patel, Manuel Kaufmann, Marc Pollefeys, Xi Wang
+</div>
+
+<i class="pub-venue">Preprint</i>
+
+<div class="pub-links" markdown="1">
+[**project page**](https://comind.ethz.ch/)
+</div>
+
+</div>
+</div>
+
 <div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">RA-L 2026</div><img src='images/react3d_demo_speed.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
