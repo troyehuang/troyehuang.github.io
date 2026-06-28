@@ -47,6 +47,10 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaqi Chen, Ben Ellis, Cedric Zöllner, Manthan Patel, Manuel Kaufmann, Marc Pollefeys, Xi Wang
 </div>
 
+<div class="pub-authors" markdown="1" style="font-size: 0.8em; color: #888;">
+\*listed in alphabetical order.
+</div>
+
 <i class="pub-venue">European Conference on Computer Vision (ECCV), 2026</i>
 
 <div class="pub-links" markdown="1">
