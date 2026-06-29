@@ -48,7 +48,7 @@ Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaq
 </div>
 
 <div class="pub-authors" markdown="1" style="font-size: 0.8em; color: #888;">
-\*listed in alphabetical order.
+\* listed in alphabetical order.
 </div>
 
 <i class="pub-venue">European Conference on Computer Vision (ECCV), 2026</i>
