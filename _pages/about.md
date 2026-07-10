@@ -41,7 +41,7 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 <div class='paper-box-text' markdown="1">
 
 <div class="pub-title" markdown="1">
-**CoMind**: Understanding Collaborative Human Activity from Multiple Minds and Views
+[**CoMind**: Understanding Collaborative Human Activity from Multiple Minds and Views](https://arxiv.org/abs/2607.06691)
 </div>
 
 <div class="pub-authors" markdown="1">
@@ -55,7 +55,7 @@ Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaq
 <i class="pub-venue">European Conference on Computer Vision (ECCV), 2026</i>
 
 <div class="pub-links" markdown="1">
-[**project page**](https://comind.ethz.ch/)
+[**paper**](https://arxiv.org/pdf/2607.06691) / [**project page**](https://comind.ethz.ch/)
 </div>
 
 </div>
