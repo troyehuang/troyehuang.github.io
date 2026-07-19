@@ -27,15 +27,32 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted by *Developments in the Built Environment (DIBE)*!
 - *2026.07*: &nbsp;🎓🎓 I graduated from ETH Zurich, entitled with a *Master of Science ETH in Computer Science*!
-- *2026.06*: &nbsp;🎉🎉 Our paper **CoMind** has been accepted by ECCV 2026!
-- *2026.06*: &nbsp;🎉🎉 Our paper **REACT3D** will be presented at IROS 2026. See you in Pittsburgh!
+- *2026.06*: &nbsp;🎉🎉 Our paper **CoMind** has been accepted by *ECCV 2026*!
+- *2026.06*: &nbsp;🎉🎉 Our paper **REACT3D** will be presented at *IROS 2026*. See you in Pittsburgh!
 - *2026.05*: &nbsp;🎉🎉 Our paper **REACT3D** got accepted as a <span style="color:red;">**spotlight presentation**</span> at the [ICRA Real2Sim2Real Workshop](https://awesomedigitaltwin.github.io/2026_ICRA.html)! See you in Vienna!
 - *2026.02*: &nbsp;🎉🎉 My first publication has been accepted by IEEE Robotics and Automation Letters (RA-L). My research journey begins here! 
 
 # 📝 Publications 
 
 <span style="font-size: 0.75em; color: gray;">\* denotes equal contribution</span>
+
+<div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">DIBE 2026</div><img src='images/EBPIA_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class="pub-title" markdown="1">
+**Automating the Visual Inventory of Building Products Using a Hybrid Computer Vision–Language Model Pipeline**
+</div>
+
+<div class="pub-authors" markdown="1">
+Shuting Mi, Xiaofei Wu, Shunchang Liu, **Zhao Huang**, Catherine De Wolf, Mennatallah El-Assady, Pei-Yu Wu
+</div>
+
+<i class="pub-venue">Developments in the Built Environment (DIBE), 2026</i>
+
+</div>
+</div>
 
 <div class='paper-box' style='border-bottom: none;'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/comind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
