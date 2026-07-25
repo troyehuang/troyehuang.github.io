@@ -42,7 +42,7 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 <div class='paper-box-text' markdown="1">
 
 <div class="pub-title" markdown="1">
-**Automating the Visual Inventory of Building Products Using a Hybrid Computer Vision–Language Model Pipeline**
+[**Automating the Visual Inventory of Building Products Using a Hybrid Computer Vision–Language Model Pipeline**](https://doi.org/10.1016/j.dibe.2026.100992)
 </div>
 
 <div class="pub-authors" markdown="1">
@@ -50,6 +50,10 @@ Shuting Mi, Xiaofei Wu, Shunchang Liu, **Zhao Huang**, Catherine De Wolf, Mennat
 </div>
 
 <i class="pub-venue">Developments in the Built Environment (DIBE), 2026</i>
+
+<div class="pub-links" markdown="1">
+[**paper**](https://doi.org/10.1016/j.dibe.2026.100992)
+</div>
 
 </div>
 </div>
