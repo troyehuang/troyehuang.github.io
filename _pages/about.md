@@ -42,7 +42,7 @@ I grew up in Shenzhen where it never snows — Switzerland was quite the change.
 <div class='paper-box-text' markdown="1">
 
 <div class="pub-title" markdown="1">
-[**Automating the Visual Inventory of Building Products Using a Hybrid Computer Vision–Language Model Pipeline**](https://doi.org/10.1016/j.dibe.2026.100992)
+[**Enhancing building product inventory automation through a hybrid spatial-semantic modeling framework**](https://doi.org/10.1016/j.dibe.2026.100992)
 </div>
 
 <div class="pub-authors" markdown="1">
