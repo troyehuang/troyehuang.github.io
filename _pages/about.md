@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Computer Science Master’s student at [ETH Zurich](https://ethz.ch/en.html), supervised by [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/) within the [Computer Vision and Geometry Group](https://cvg.ethz.ch/) at ETH Zurich, and by [Prof. Daniel Ahmed](https://www.artorg.unibe.ch/research/arsl/group_members/persons/prof_dr_ahmed_daniel/index_eng.html#pane1752106) at the [Acoustic Robotics Systems Lab](https://www.artorg.unibe.ch/research/arsl/index_eng.html) at the University of Bern. My research interests span computer vision and robotics, with a focus on bridging the real-to-sim-to-real gap to create meaningful real-world applications.
 
-Prior to moving to Switzerland, I completed my Bachelor’s degree in Computer Science at the [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au) in Australia, under the supervision of [Prof. Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/).
+Prior to moving to Switzerland, I completed my Bachelor’s degree in Computer Science with High Distinction at the [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au) in Australia, under the supervision of [Prof. Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/).
 
 I grew up in Shenzhen where it never snows — Switzerland was quite the change. Somewhere along the way, I got hooked on skiing.
 
