@@ -130,7 +130,7 @@ Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaq
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.1em;"><a href="https://ethz.ch/en.html" style="color: inherit; text-decoration: none;">ETH Zurich</a></div>
     <div>Master of Science in Computer Science</div>
-    <div style="color: gray; font-size: 0.9em;"><em>2023.09 - 2026.06 (now) | Zurich, Switzerland</em></div>
+    <div style="color: gray; font-size: 0.9em;"><em>2023.09 - 2026.07 | Zurich, Switzerland</em></div>
   </div>
 </div>
 
