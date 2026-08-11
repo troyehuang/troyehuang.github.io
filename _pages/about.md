@@ -21,7 +21,9 @@ I am a Computer Science Master’s student at [ETH Zurich](https://ethz.ch/en.ht
 
 Prior to moving to Switzerland, I completed my Bachelor’s degree in Computer Science with High Distinction at the [University of New South Wales (UNSW Sydney)](https://www.unsw.edu.au) in Australia, under the supervision of [Prof. Maurice Pagnucco](https://cgi.cse.unsw.edu.au/~morri/).
 
-I grew up in Shenzhen where it never snows — Switzerland was quite the change. Somewhere along the way, I got hooked on skiing.
+Outside of research, I enjoy skiing, not bad for someone who grew up in Shenzhen, where it never snows.
+
+If you are interested in scene understanding and embodied AI, feel free to reach out. I am always happy to chat or collaborate.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
