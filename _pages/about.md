@@ -155,6 +155,17 @@ Alexey Gavryushin\*, Dingxi Zhang\*, **Zhao Huang**\*, Alexandros Delitzas, Jiaq
 # 💻 Working Experience
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
   <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
+    <img src="images/logo/stealth.jpeg" style="max-height: 65px; max-width: 100%;" alt="Stealth Startup Logo">
+  </div>
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.1em;">Stealth Startup</div>
+    <div>Founding Member & Computer Vision Researcher</div>
+    <div style="color: gray; font-size: 0.9em;"><em>2026.04 - Present | Zurich, Switzerland</em></div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-left: 20px;">
+  <div style="flex: 0 0 120px; text-align: center; margin-right: 20px;">
     <a href="https://research.ibm.com/labs/zurich">
       <img src="images/logo/ibm_pos.svg" class="logo-light" style="max-height: 80px; max-width: 100%;" alt="IBM Research Logo">
       <img src="images/logo/ibm_neg.svg" class="logo-dark" style="max-height: 80px; max-width: 100%;" alt="IBM Research Logo">
