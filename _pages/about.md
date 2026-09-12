@@ -31,7 +31,7 @@ If you are interested in scene understanding and embodied AI, feel free to reach
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted by *Developments in the Built Environment (DIBE)*!
 - *2026.07*: &nbsp;🎓🎓 I graduated from ETH Zurich, entitled with a *Master of Science ETH in Computer Science*!
-- *2026.06*: &nbsp;🎉🎉 Our paper **CoMind** has been accepted by *ECCV 2026*!
+- *2026.06*: &nbsp;🎉🎉 Our paper **CoMind** has been accepted by *ECCV 2026*! See you in Malmö, Sweden!
 - *2026.06*: &nbsp;🎉🎉 Our paper **REACT3D** will be presented at *IROS 2026*. See you in Pittsburgh!
 - *2026.05*: &nbsp;🎉🎉 Our paper **REACT3D** got accepted as a <span style="color:red;">**spotlight presentation**</span> at the [ICRA Real2Sim2Real Workshop](https://awesomedigitaltwin.github.io/2026_ICRA.html)! See you in Vienna!
 - *2026.02*: &nbsp;🎉🎉 My first publication has been accepted by IEEE Robotics and Automation Letters (RA-L). My research journey begins here! 
